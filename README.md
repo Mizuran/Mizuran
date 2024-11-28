@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mizuran
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Typescript / Python
+- 🌱 I’m currently learning Typescript & JavaScript / Rust
 - 💞️ I’m looking to collaborate on Backend Web Development
 - 📫 How to reach me mithomizuno@gmail.com
 - 😄 Pronouns: he/him
